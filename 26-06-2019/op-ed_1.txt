@@ -1,0 +1,34 @@
+-Date	   : 26th June 2019
+-Source	 : Twitter Trending Tracker
+-Location: Indonesia
+-Status	 : Open
+
+-Description:
+
+	Around 16.00 PM local time (GMT Western Indonesian Region), I noticed a popular hashtag called '#KemenkesAntekAsing' in Indonesia region.
+	It implies of an accussation to the Indonesian Minister of Health being a foreign agent. This accusation is directed to the minister plan to
+	join an 'initiative' from the Bloomberg L.P. about smoking. The initiative in question is called 'Bloomberg Initiative To Reduce Tobacco Use'. 
+
+	This initiative is aimed to help amplifying the United Nation World Health Organisation (WHO) program to reduce tobacco related deaths.
+	The program in question is called MPOWER; an abbreviation of the followings
+	- Monitor; monitor tobacco use and prevention policies
+	- Protect; protect people from tobacco smoke
+	- Offer; offer help to quit
+	- Warn; warn about the dangers tobacco
+	- Enforce; enforce bans on tobacco advertising, promotion and sponsorship
+	- Raise; raise taxes on tobacco
+  
+	Further details can be read through the following link: (https://tobaccocontrolgrants.org/About-the-BI-Grants-Program).
+
+  Indonesia is one of the ten countries with high prevalence use of tobacco prioritised by the Bloomberg to join this program.
+
+-Updates: 
+
+	(1). 18.40 PM local time; Aprroximately 3,500 Indonesian tweeted #KemenkesAntekAsing
+
+-Editor Opinion: 
+
+  "A potentially malicious disinformation campaign run by the tobacco industrialists social media team to protect their interest in Indonesia.
+  Whether it is run by both domestic or foreign tobacco industrialists are currently unknown."
+
+----------------------------------------------------------------------------End of Document---------------------------------------------------------------------------
