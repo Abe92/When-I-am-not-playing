@@ -1,0 +1,55 @@
+-Date	    : 3rd July 2019
+-Source   : Facebook (my personalised newsfeed)
+-Location : Indonesia, Bandung
+-Status	  : Close
+
+-Description:
+
+	  Around 14.24 PM local time (GMT Western Indonesia Region), I noticed a post from my local governor (Mr. Ridwan Kamil of Bandung city) 
+    Facebook page about electric vehicle. The electric vehicle is in form of motorcycle. 
+
+	  The specifications of it (as written on his post) are as follows:
+	  (1). Noiseless (as typically with electric vehicle)
+	  (2). It can travelled for 80 km in just one hour of charging it
+	  (3). Mass production by local company is imminent by local company called ARINDO 
+
+	  He informed that officially (although unclear whether it is effective immedia-
+	  tely or not) for daily commute when performing his governorial tasks will be accomodated
+	  by this electric vehicle.
+
+	  This Facebook post rake in about 800+ commments in about one hour after the posting
+	  time. Through the filter functionality of 'relevant comments', the default comment filter
+	  of Facebook, only one person mentioned the issue of lacking the sound that it made when
+	  traveling on the road.
+
+	  This Facebook post ID is 387474758784089.
+
+-Update(s):
+	
+	  (1). The time of the Governor post is based upon the timestamp of the facebook post.
+
+-Editor Opionon:
+
+    "People who worried about the lack of noise should informed themselves about the EU legislation 
+    just recently become mandatory to obeyed. The specific legislation is Regulation (EU) No 540/2014. 
+    The draft of this regulation begin on 6th February 2013 and in April 2014, the European Parliament
+    approved this regulation. This new rule established transitional period of 5 years after publication
+    of the final approval of the April 2014 proposal to comply with the regulation.
+
+    For those wandering, this regulation declare a mandatory installation of Acoustic Vehicle Alerting Systems (AVAS) 
+    for electric vehicle.
+
+    The article from 'engadget' website explained in good Laymen way of how people feel about this:
+
+    'The rules won't please everyone. The charity Guide Dogs and other accessibility advocates
+    have called for electric cars to make sounds at all speeds. It might also irk people hoping
+    that EVs could usher in an era of far quiter streets. Still, this could increase practical
+    safety and help EVs gain acceptance from people worried they could become hazards.'
+
+    You can read the full article here: (https://www.engadget.com/2019/06/30/eu-electric-car-noise-rule-takes-effect/)
+
+    Now, I understand that the reader (especially from Indonesia) of this text document might say that this rule is
+    only mandatory for our European counterpart. Let's put it this way, our European counterpart already ahead on this
+    issue, know the good and the bad of implementing such disruption to all pedestrians and environments.
+
+    Is it not wise, for us, to actually learn and follow their understanding of electric vehicle?"
