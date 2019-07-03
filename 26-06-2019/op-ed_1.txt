@@ -1,4 +1,4 @@
--Date	   : 26th June 2019
+-Date	 : 26th June 2019
 -Source	 : Twitter Trending Tracker
 -Location: Indonesia
 -Status	 : Open
