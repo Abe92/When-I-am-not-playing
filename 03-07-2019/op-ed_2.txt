@@ -1,4 +1,4 @@
--Date	    : 3rd July 2019
+-Date	  : 3rd July 2019
 -Source   : Facebook (my personalised newsfeed)
 -Location : Indonesia, Bandung
 -Status	  : Close
@@ -30,26 +30,26 @@
 
 -Editor Opionon:
 
-    "People who worried about the lack of noise should informed themselves about the EU legislation 
-    just recently become mandatory to obeyed. The specific legislation is Regulation (EU) No 540/2014. 
-    The draft of this regulation begin on 6th February 2013 and in April 2014, the European Parliament
-    approved this regulation. This new rule established transitional period of 5 years after publication
-    of the final approval of the April 2014 proposal to comply with the regulation.
+    	"People who worried about the lack of noise should informed themselves about the EU legislation 
+    	just recently become mandatory to obeyed. The specific legislation is Regulation (EU) No 540/2014. 
+    	The draft of this regulation begin on 6th February 2013 and in April 2014, the European Parliament
+    	approved this regulation. This new rule established transitional period of 5 years after publication
+   	of the final approval of the April 2014 proposal to comply with the regulation.
 
-    For those wandering, this regulation declare a mandatory installation of Acoustic Vehicle Alerting Systems (AVAS) 
-    for electric vehicle.
+    	For those wandering, this regulation declare a mandatory installation of Acoustic Vehicle Alerting Systems (AVAS) 
+    	for electric vehicle.
 
-    The article from 'engadget' website explained in good Laymen way of how people feel about this:
+    	The article from 'engadget' website explained in good Laymen way of how people feel about this:
 
-    'The rules won't please everyone. The charity Guide Dogs and other accessibility advocates
-    have called for electric cars to make sounds at all speeds. It might also irk people hoping
-    that EVs could usher in an era of far quiter streets. Still, this could increase practical
-    safety and help EVs gain acceptance from people worried they could become hazards.'
+    	'The rules won't please everyone. The charity Guide Dogs and other accessibility advocates
+    	have called for electric cars to make sounds at all speeds. It might also irk people hoping
+    	that EVs could usher in an era of far quiter streets. Still, this could increase practical
+    	safety and help EVs gain acceptance from people worried they could become hazards.'
 
-    You can read the full article here: (https://www.engadget.com/2019/06/30/eu-electric-car-noise-rule-takes-effect/)
+    	You can read the full article here: (https://www.engadget.com/2019/06/30/eu-electric-car-noise-rule-takes-effect/)
 
-    Now, I understand that the reader (especially from Indonesia) of this text document might say that this rule is
-    only mandatory for our European counterpart. Let's put it this way, our European counterpart already ahead on this
-    issue, know the good and the bad of implementing such disruption to all pedestrians and environments.
+    	Now, I understand that the reader (especially from Indonesia) of this text document might say that this rule is
+    	only mandatory for our European counterpart. Let's put it this way, our European counterpart already ahead on this
+    	issue, know the good and the bad of implementing such disruption to all pedestrians and environments.
 
-    Is it not wise, for us, to actually learn and follow their understanding of electric vehicle?"
+    	Is it not wise, for us, to actually learn and follow their understanding of electric vehicle?"
