@@ -1,0 +1,107 @@
+List of the academic paths pursued from 2016 until present time (2019)
+
+(1). -Type	           : Doctoral Studentship
+     -Destination      : Imperial College London Department of Bioengineering
+     -Field            : Bioengineering, Advanced Optical Precision Imaging
+     -Date	           : April 2019
+     -Project          : 'Visualising and Understanding Mechanical Stimuli During Development and Disease'
+     -Project type     : Attached Project
+     -Status	         : DECISION PENDING
+     -Rejection comment: Not Applicable
+
+(2). -Type	           : Doctoral Studentship
+     -Destination      : MIT Media Arts and Sciences
+     -Field            : Software Engineering, Data Science, Sensor
+     -Date             : December 2018 to February 2019
+     -Project          : 'Towards Real-Time Sitrep in a Hazardous Environment'
+     -Project type     : Original Project
+     -Status           : REJECTED
+     -Rejection comment: 'Thank you for your application to the graduate program in Media Arts and Sciences at
+			                    the Massachusetts Institute of Technology for Fall 2019. We regret that we are not able
+			                    to offer you admission.
+                          We received more than 1300 applications and were able to admit less than 5%. In selecting
+                          so few from a large and talented group, we must turn down many qualified applicants.'
+
+(3). -Type		         : Doctoral Studentship
+     -Destination      : University of Cambridge Department of Chemical Engineering and Biotechnology
+     -Field		         : Chemical Engineering, Biotechnology, Software Engineering, Sensor
+     -Date		         : September 2018 to April 2019
+     -Project		       : 'Towards Real-Time Sitrep in a Hazardous Environment'
+     -Project type	   : Original Project
+     -Status		       : REJECTED
+     -Rejection comment: 'Thank you for sending your application for admission. The University has given it careful
+			                    consideration and I am sorry to tell you that they have decided that they are not able to
+			                    offer you a place.
+                          The University receives thousands of applications, all for very able prospective graduate
+                          students, and the competition for the limited number of places is intense. This means that we
+                          are not able to offer admission to many good candidates.'
+
+(4). -Type		         : Government-sponsored Scholarship
+     -Destination	     : Australia Award Scholarships in Indonesia
+     -Field		         : Economy, Region Development
+     -Date		         : March 2018 to June 2018
+     -Project		       : 'Effective economic institutions and infrastructure'
+     -Project type	   : Attached Project
+     -Status		       : REJECTED
+     -Rejection comment: 'I am writing to inform that your application was not successful in the 2019 intake of the
+			                    Australia Awards Scholarships in Indonesia. As you know there are 300 scholarships available
+                          in the 2019 intake application round, however this year the competition for shortlisted places
+                          was again highly competitive with 5800 aplications saved.'
+
+(5). -Type		         : Doctoral Studentship
+     -Destination	     : The Alan Turing Institute - University of Leeds
+     -Field		         : Data Science, Data Analytics
+     -Date		         : February 2018 to March 2018
+     -Project		       : 'Understanding the inner-workings of city-level agent-based models'
+     -Project type	   : Attached Project
+     -Status		       : REJECTED
+     -Rejection comment: Not Available
+
+(6). -Type		         : Doctoral Studentship
+     -Destination	     : The Alan Turing Institute - University College London (UCL)
+     -Field		         : Applications of Data Science, Defence and Security, Ethics for Data Science,
+			                   Government, Health and Wellbeing, Privacy and Trust, Public Policy, Smart Cities,
+			                   Social Data Science/Computational Social Science
+     -Date		         : October 2017 to January 2018
+     -Project		       : 'Smart Cities: User-Centric Approach for Urban Spatial Planning and Development'
+     -Project type	   : Original Project
+     -Status		       : REJECTED
+     -Rejection comment: 'Further in your recent application to The Alan Turing Institute Doctoral Studentship scheme,
+			                    we are sorry to inform you that your application was unsuccessful and will not progress any
+                          further. Due to the volume of applications received we are unable to provide individual feedback
+			                    on your application.'
+
+(7). -Type		         : Government-sponsored Scholarship
+     -Destination	     : LPDP (Indonesia Endowment Fund for Education) - University of Edinburgh Business School
+     -Field		         : Data Science, Data Analytics, Economy, Region Development
+     -Date		         : July 2017 to October 2017
+     -Project		       : 'Redefining Developing Countries Stakeholders Strategies in the Age of Fourth Industrial Revolution'
+     -Project type	   : Original Project
+     -Status		       : REJECTED
+     -Rejection comment: Not Available
+     -Notes		         : The final decision was 'REJECTED' but not without going through the following stages;
+			                   (-) Administrative Backgrounds check [July 2017 to August 2017]
+			                   (-) Online Assessment Test                  [August 2017]
+			                   (-) Interview                               [September 2017] 
+                         (-) 'Assessment Day'                        [September 2017]
+
+(8). -Type		         : Doctoral Studentship
+     -Destination	     : University of Edinburgh Business School
+     -Field		         : Data Science, Data Analytics, Economy, Region Development
+     -Date		         : April 2017 to July 2017
+     -Project		       : 'Redefining Developing Countries Stakeholders Strategies in the Age of Fourth Industrial Revolution'
+     -Project type	   : Original Project
+     -Status		       : REJECTED
+     -Rejection comment: 'I regret to inform that we are unable to offer you a place on our PhD in management programme. Competition
+                          for places was very high, and because we received so many high-quality applications, we were unable to make
+			                    offers to all candidates that met the minimum entry requirements.'
+
+(9). -Type		         : Doctoral Studentship
+     -Destination	     : University of Edinburgh - Usher Institute of Population Health Sciences and Informatics
+     -Field		         : Data Science, Data Analytics, Life sciences
+     -Date		         : September 2016 to October 2016
+     -Project		       : 'Through the Tumour Labyrinth'
+     -Project type	   : Attached Project
+     -Status		       : REJECTED
+     -Rejection comment: 'Thank you for your application for the above PhD. I regret to advise that on this ocassion you have not been
+                          shortlisted for interview, as there were other candidates whose applications were more suited to the project.'
