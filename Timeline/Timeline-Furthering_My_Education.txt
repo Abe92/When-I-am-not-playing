@@ -3,11 +3,11 @@ List of the academic paths pursued from 2016 until present time (2019)
 (1). -Type	       : Doctoral Studentship
      -Destination      : University College London
      -Field	       : Security and Crime Sciences, Data Sciences, Social Sciences, Geography
-     -Date	       : July 2019
+     -Date	       : July 2019 to August 2019
      -Project          : 'The environmental cost of IUU (illegal, unreported, and unregulated) Fishing
                           in the Southern Region of Asia, Indonesia'
      -Project type     : Original Project
-     -Status           : DECISION PENDING
+     -Status           : REJECTED
      -Rejection comment: Not Applicable
       
 (2). -Type	       : Doctoral Studentship
