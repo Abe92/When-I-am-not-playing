@@ -1,7 +1,7 @@
-List of my small coding projects
+List of Small Coding Project
 
-(1) OV_UNV_Gender_Data_Challenge_Aldy_Abe.pbix. <br/>
-Date    : 14 April - 5th June 2020 <br/>
-Comment : <br/>
-- This project was submitted as part of UN Online Volunteer Programme. <br/>
-- It is a highly visual and interactive report made in Microsoft Power BI. <br/>
+- PowerBI file (.pbix) from 14th April to 5th June 2020 
+
+- SQL scripts (.sql) from 30th June to 7th July 2020
+
+- Python scripts (.py) from 1st July till present (year 2020)
