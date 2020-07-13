@@ -115,3 +115,11 @@ List of the academic paths pursued from 2016 until present time (2019)
      -Status	       : REJECTED
      -Rejection comment: 'Thank you for your application for the above PhD. I regret to advise that on this ocassion you have not been
                           shortlisted for interview, as there were other candidates whose applications were more suited to the project.'
+			  
+(11).-Type	       : Volunteering
+     -Destination      : United Nations Volunteers
+     -Field            : Data Analysis, Data Visualization
+     -Project	       : Various
+     -Project type     : Attached Project
+     -Status           : ACCEPTED
+     -Comment          : N/A
