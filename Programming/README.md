@@ -1,4 +1,4 @@
-List of Small Coding Project
+List of Small Coding Projects
 
 - PowerBI file (.pbix) from 14th April to 5th June 2020 
 
