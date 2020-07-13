@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 # Pandas setting to display output messages maximum rows
 pd.options.display.max_rows = 1500
@@ -8,8 +7,8 @@ pd.options.display.max_colwidth = 1500
 # Load file; in this case a CSV file from Oxford Uni on DD/MM/YY
 # Syntax: df = pd.read_csv('file/path/file_name.csv')
 # Also, show file name in use
-df = pd.read_csv('D:/_00 UN Volunteers/22 June - Ongoing/Oxford Uni Dataset/07-20/OxCGRT_09-7-20.csv')
-file_name = os.path.basename('D:/_00 UN Volunteers/22 June - Ongoing/Oxford Uni Dataset/07-20/OxCGRT_11-7-20.csv')
+df = pd.read_csv('file/path/file_name.csv')
+file_name = os.path.basename('file/path/file_name.csv')
 
 # List of the column names from flat file (CSV file)
 # Begins with the countries name, its code and the date when information was collected
