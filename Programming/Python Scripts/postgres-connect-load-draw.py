@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # Set up display options of Pandas library
 pd.set_option('display.max_column', None)     # This line force Pandas to display any number of columns
-pd.set_option('display.width, 200)            # This line tells Pandas to to display output on Python console up to 200 characters
+pd.set_option('display.width', 200)           # This line tells Pandas to to display output on Python console up to 200 characters
 
 # Set up variable to use for connecting to Postgres Database
 PGHOST = 'your_host_name'
