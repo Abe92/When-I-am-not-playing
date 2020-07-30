@@ -1,9 +1,9 @@
-'''
+"""
 Author  : Aldy Rasyid Abe
 Email   : aldyrabe@gmail.com
 Title   : Python script visualization with Plotly Express
 Purpose : Building visualization of Government COVID-19 Respond Tracker
-'''
+"""
 
 import psycopg2
 import pandas as pd
