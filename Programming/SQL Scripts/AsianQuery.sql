@@ -5,8 +5,8 @@ SQL Query to call all available Asian countries from 'govt_respond_tracker' tabl
 SELECT * FROM govt_respond_tracker
 WHERE countryname IN ('Afghanistan', 'Bahrain', 'Bangladesh', 'Bhutan', 'Brunei',
 		      'Cambodia', 'China', 'Hong Kong', 'India', 'Indonesia', 'Iran',
-		      'Iraq', 'Japan', 'Jordan', 'Kuwait', 'Kyrgyz Republic', 'Laos',
-		      'Lebanon', 'Macao', 'Malaysia', 'Mongolia', 'Myanmar', 'Nepal',
+		      'Iraq', 'Japan', 'Jordan', 'Kazakhstan', 'Kuwait', 'Kyrgyz Republic', 
+		      'Laos','Lebanon', 'Macao', 'Malaysia', 'Mongolia', 'Myanmar', 'Nepal',
 		      'Oman', 'Pakistan', 'Philippines', 'Qatar', 'Saudi Arabia',
 		      'Singapore', 'South Korea', 'Sri Lanka', 'Palestine', 'Syria',
 		      'Taiwan', 'Tajikistan', 'Thailand', 'Timor-Leste', 'Turkey', 
