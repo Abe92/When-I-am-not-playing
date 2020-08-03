@@ -95,7 +95,8 @@ COPY Govt_Respond_Tracker FROM 'file_path/file_name.csv' DELIMITER ',' CSV HEADE
 -- (4) SELECT * FROM Table_Name, first N rows, in ascending order --
 SELECT * 
 FROM Govt_Respond_Tracker
+WHERE datec BETWEEN 'YYYY-MM-DD' AND 'YYYY-MM-DD'
 ORDER BY
 countryname ASC,
 datec ASC
-LIMIT 189;
+LIMIT 999999;
