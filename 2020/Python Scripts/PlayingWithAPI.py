@@ -35,5 +35,5 @@ Writing JSON to a file with Pretty-Printing
 text_file = 'Nobel_Laureates.txt'
 json_file = 'Nobel_Laureates.json'
 
-with open('file-name-or-select-from-the-predefined-variables', 'w') as outfile:
+with open('file_name\use\predefined\variables\above', 'w') as outfile:
     json.dump(laureates_data, outfile, sort_keys=True, indent=4)
