@@ -1,3 +1,12 @@
+"""
+Author   : Aldy Rasyid Abe
+Email    : aldyrabe@gmail.com
+Title    : Nobel Prize Winners API Communicator
+Purpose  : Python script to pull-and-save API data from Nobel Prize Winners API
+Reference: - https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/#disqus_thread
+           - https://stackoverflow.com/questions/9170288/pretty-print-json-data-to-a-file-using-python
+"""
+
 import requests
 import json
 
