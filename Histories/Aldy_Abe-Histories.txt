@@ -1,6 +1,16 @@
-List of the academic paths pursued from 2016 until present time (2019)
+List of the academic paths pursued from 2016 until present
 
-(1). -Type	       : Doctoral Studentship
+(1). -Type	       : Volunteering
+     -Destination      : United Nations Volunteers
+     -Field            : Data Analysis, Data Visualization
+     -Date	       : (-) 14th April to 5th June 2020
+                         (-) 22nd June to present (project on-going; expected finished date 30th October 2020)
+     -Project	       : Various
+     -Project type     : Attached Project {i.e. GIMAC - Global Information Management and Analysis Cell on COVID-19}
+     -Status           : ACCEPTED
+     -Comment          : N/A
+
+(2). -Type	       : Doctoral Studentship
      -Destination      : University College London
      -Field	       : Security and Crime Sciences, Data Sciences, Social Sciences, Geography
      -Date	       : July 2019 to August 2019
@@ -10,7 +20,7 @@ List of the academic paths pursued from 2016 until present time (2019)
      -Status           : REJECTED
      -Rejection comment: Not Applicable
       
-(2). -Type	       : Doctoral Studentship
+(3). -Type	       : Doctoral Studentship
      -Destination      : Imperial College London Department of Bioengineering
      -Field            : Bioengineering, Advanced Optical Precision Imaging
      -Date	       : April 2019
@@ -19,7 +29,7 @@ List of the academic paths pursued from 2016 until present time (2019)
      -Status	       : REJECTED
      -Rejection comment: Not Applicable
 
-(3). -Type	       : Doctoral Studentship
+(4). -Type	       : Doctoral Studentship
      -Destination      : MIT Media Arts and Sciences
      -Field            : Software Engineering, Data Science, Sensor
      -Date             : December 2018 to February 2019
@@ -32,7 +42,7 @@ List of the academic paths pursued from 2016 until present time (2019)
                           We received more than 1300 applications and were able to admit less than 5%. In selecting
                           so few from a large and talented group, we must turn down many qualified applicants.'
 
-(4). -Type	       : Doctoral Studentship
+(5). -Type	       : Doctoral Studentship
      -Destination      : University of Cambridge Department of Chemical Engineering and Biotechnology
      -Field	       : Chemical Engineering, Biotechnology, Software Engineering, Sensor
      -Date	       : September 2018 to April 2019
@@ -46,7 +56,7 @@ List of the academic paths pursued from 2016 until present time (2019)
                           students, and the competition for the limited number of places is intense. This means that we
                           are not able to offer admission to many good candidates.'
 
-(5). -Type	       : Government-sponsored Scholarship
+(6). -Type	       : Government-sponsored Scholarship
      -Destination      : Australia Award Scholarships in Indonesia
      -Field	       : Economy, Region Development
      -Date	       : March 2018 to June 2018
@@ -58,7 +68,7 @@ List of the academic paths pursued from 2016 until present time (2019)
                           in the 2019 intake application round, however this year the competition for shortlisted places
                           was again highly competitive with 5800 aplications saved.'
 
-(6). -Type	       : Doctoral Studentship
+(7). -Type	       : Doctoral Studentship
      -Destination      : The Alan Turing Institute - University of Leeds
      -Field	       : Data Science, Data Analytics
      -Date	       : February 2018 to March 2018
@@ -67,7 +77,7 @@ List of the academic paths pursued from 2016 until present time (2019)
      -Status	       : REJECTED
      -Rejection comment: Not Available
 
-(7). -Type	       : Doctoral Studentship
+(8). -Type	       : Doctoral Studentship
      -Destination      : The Alan Turing Institute - University College London (UCL)
      -Field	       : Applications of Data Science, Defence and Security, Ethics for Data Science,
 			 Government, Health and Wellbeing, Privacy and Trust, Public Policy, Smart Cities,
@@ -81,7 +91,7 @@ List of the academic paths pursued from 2016 until present time (2019)
                           further. Due to the volume of applications received we are unable to provide individual feedback
 			  on your application.'
 
-(8). -Type	       : Government-sponsored Scholarship
+(9). -Type	       : Government-sponsored Scholarship
      -Destination      : LPDP (Indonesia Endowment Fund for Education) - University of Edinburgh Business School
      -Field	       : Data Science, Data Analytics, Economy, Region Development
      -Date	       : July 2017 to October 2017
@@ -95,7 +105,7 @@ List of the academic paths pursued from 2016 until present time (2019)
 			 (-) Interview                               [September 2017] 
                          (-) 'Assessment Day'                        [September 2017]
 
-(9). -Type	       : Doctoral Studentship
+(10). -Type	       : Doctoral Studentship
      -Destination      : University of Edinburgh Business School
      -Field	       : Data Science, Data Analytics, Economy, Region Development
      -Date	       : April 2017 to July 2017
@@ -106,7 +116,7 @@ List of the academic paths pursued from 2016 until present time (2019)
                           for places was very high, and because we received so many high-quality applications, we were unable to make
 			  offers to all candidates that met the minimum entry requirements.'
 
-(10).-Type	       : Doctoral Studentship
+(11).-Type	       : Doctoral Studentship
      -Destination      : University of Edinburgh - Usher Institute of Population Health Sciences and Informatics
      -Field	       : Data Science, Data Analytics, Life sciences
      -Date	       : September 2016 to October 2016
@@ -116,12 +126,3 @@ List of the academic paths pursued from 2016 until present time (2019)
      -Rejection comment: 'Thank you for your application for the above PhD. I regret to advise that on this ocassion you have not been
                           shortlisted for interview, as there were other candidates whose applications were more suited to the project.'
 			  
-(11).-Type	       : Volunteering
-     -Destination      : United Nations Volunteers
-     -Field            : Data Analysis, Data Visualization
-     -Date	       : (-) 14th April to 5th June 2020
-                         (-) 22nd June to present (project on-going)
-     -Project	       : Various
-     -Project type     : Attached Project
-     -Status           : ACCEPTED
-     -Comment          : N/A
