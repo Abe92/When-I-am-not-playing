@@ -13,6 +13,8 @@ The collection of small projects done when I am not playing video games <br>
      This folder contains the record of my attempt to further my educations and professional careers. It recorded the events of the journey from 2016 till present (i.e. `2020`) in ascending order. The update frequency of the list is plan to be at least every month; should updates exist. <br>
      
 (4). **Programming** <br>
-     This folder is specifically build to showcase my programming skills in using `Python` and `SQL` or other programming language(s) in the future. It also showcases the result of the programming languages in question, e.g. `PNGs` and `HTMLs`. Again, the list may grow in the future. <br>
+     This folder is specifically build to showcase my programming skills in using `Python` and `SQL` or other programming language(s) in the future. It also showcases the result of the programming languages in question, e.g. `PNGs` and `HTMLs`. Again, the list may grow in the future. Some of the notable **results** stored here are: <br>
+      - Plotly outputs (in `HTMLs` and `PNGs`) of Oxford University COVID-19 Government Response Tracker and <br>
+      - Plotly scripts to build those outputs.
      
 ###### Note: The information above is accurate as of 8<sup>th</sup> August 2020 #######
