@@ -4,7 +4,7 @@ List of the academic paths pursued from 2016 until present
      -Destination      : United Nations Volunteers
      -Field            : Data Analysis, Data Visualization
      -Date	       : (-) 14th April to 5th June 2020
-                         (-) 22nd June to present (project on-going; expected finished date 30th October 2020)
+                         (-) 22nd June to present (project on-going; expected end date 30th October 2020)
      -Project	       : Various
      -Project type     : Attached Project {i.e. GIMAC - Global Information Management and Analysis Cell on COVID-19}
      -Status           : ACCEPTED
