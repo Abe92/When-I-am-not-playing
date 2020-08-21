@@ -1,3 +1,11 @@
+"""
+Author   : Aldy Rasyid Abe
+Email    : aldyrabe@gmail.com
+Title    : JSON Flattener
+Purpose  : Python script to 'flattened' the nested JSON file 
+Reference: - https://stackoverflow.com/questions/63337764/python-flattening-the-nested-json-file
+"""
+
 from pathlib import Path
 import json
 import pandas as pd
