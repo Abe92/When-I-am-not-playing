@@ -1,54 +1,69 @@
--- (0) VACUUM 
+/* 
+Date created 3rd August 2020
+Date updated 1st September 2020
+By Aldy Rasyid Abe
+*/
+
+/*
+OPTIONAL
+*/
 VACUUM FULL;
 
--- (1) CREATE TABLE --
-CREATE TABLE Govt_Respond_Tracker
+/*
+1. Create new table called govt_response_tracker
+*/
+CREATE TABLE govt_response_tracker
 (
-CountryName varchar,
-CountryCode varchar,
-DateC varchar,
-C1_School_closing varchar,	
-C1_Flag varchar,
-C2_Workplace_closing varchar,
-C2_Flag	varchar,
-C3_Cancel_public_events varchar,
-C3_Flag varchar,
-C4_Restrictions_on_gatherings varchar,
-C4_Flag varchar,
-C5_Close_public_transport varchar,
-C5_Flag varchar,
-C6_Stay_at_home_requirements varchar,
-C6_Flag varchar,
-C7_Restrictions_on_internal_movement varchar,
-C7_Flag varchar,
-C8_international_travel_controls varchar,
-E1_Income_support varchar,
-E1_Flag varchar,
-E2_Debt_contract_relief varchar,
-E3_Fiscal_measures varchar,
-E4_international_support varchar,
-H1_Public_information_campaigns varchar,
-H1_Flag varchar,
-H2_Testing_policy varchar,
-H3_Contact_tracing varchar,
-H4_Emergency_investment_in_healthcare varchar,
-H5_Investment_in_vaccines varchar,
-M1_Wildcard varchar,
-ConfirmedCases varchar,
-ConfirmedDeaths varchar,
-StringencyIndex varchar,
-StringencyIndexForDisplay varchar,
-StringencyLegacyIndex varchar,
-StringencyLegacyIndexForDisplay varchar,
-GovernmentResponseIndex varchar,
-GovernmentResponseIndexForDisplay varchar,
-ContainmentHealthIndex varchar,
-ContainmentHealthIndexForDisplay varchar,
-EconomicSupportIndex varchar,
-EconomicSupportIndexForDisplay varchar);
+	CountryName varchar,
+	CountryCode varchar,
+	RegionName varchar,
+	RegionCode varchar,
+	DateC varchar,
+	C1_School_closing varchar,	
+	C1_Flag varchar,
+	C2_Workplace_closing varchar,
+	C2_Flag	varchar,
+	C3_Cancel_public_events varchar,
+	C3_Flag varchar,
+	C4_Restrictions_on_gatherings varchar,
+	C4_Flag varchar,
+	C5_Close_public_transport varchar,
+	C5_Flag varchar,
+	C6_Stay_at_home_requirements varchar,
+	C6_Flag varchar,
+	C7_Restrictions_on_internal_movement varchar,
+	C7_Flag varchar,
+	C8_international_travel_controls varchar,
+	E1_Income_support varchar,
+	E1_Flag varchar,
+	E2_Debt_contract_relief varchar,
+	E3_Fiscal_measures varchar,
+	E4_international_support varchar,
+	H1_Public_information_campaigns varchar,
+	H1_Flag varchar,
+	H2_Testing_policy varchar,
+	H3_Contact_tracing varchar,
+	H4_Emergency_investment_in_healthcare varchar,
+	H5_Investment_in_vaccines varchar,
+	M1_Wildcard varchar,
+	ConfirmedCases varchar,
+	ConfirmedDeaths varchar,
+	StringencyIndex varchar,
+	StringencyIndexForDisplay varchar,
+	StringencyLegacyIndex varchar,
+	StringencyLegacyIndexForDisplay varchar,
+	GovernmentResponseIndex varchar,
+	GovernmentResponseIndexForDisplay varchar,
+	ContainmentHealthIndex varchar,
+	ContainmentHealthIndexForDisplay varchar,
+	EconomicSupportIndex varchar,
+	EconomicSupportIndexForDisplay varchar
+);
 
--- (2) ALTER data type of TEMP TABLE
-ALTER TABLE Govt_Respond_Tracker
+/*
+2. Alter datatype inside Govt_Response_Tracker
+*/
+ALTER TABLE govt_response_tracker
 ALTER COLUMN DateC TYPE date USING dateC::date,
 ALTER COLUMN C1_School_closing TYPE int USING c1_school_closing::integer,	
 ALTER COLUMN C1_Flag TYPE SMALLINT USING c1_flag::smallint,
@@ -89,14 +104,7 @@ ALTER COLUMN ContainmentHealthIndexForDisplay TYPE decimal USING ContainmentHeal
 ALTER COLUMN EconomicSupportIndex TYPE decimal USING EconomicSupportIndex::numeric,
 ALTER COLUMN EconomicSupportIndexForDisplay TYPE decimal USING EconomicSupportIndexForDisplay::numeric;
 
--- (3) POPULATE TABLE
-COPY Govt_Respond_Tracker FROM 'file_path/file_name.csv' DELIMITER ',' CSV HEADER;
-
--- (4) SELECT * FROM Table_Name, first N rows, in ascending order --
-SELECT * 
-FROM Govt_Respond_Tracker
-WHERE datec BETWEEN 'YYYY-MM-DD' AND 'YYYY-MM-DD'
-ORDER BY
-countryname ASC,
-datec ASC
-LIMIT 999999;
+/*
+3. Populate the table using CSV file
+*/
+COPY govt_response_tracker FROM 'file/path/file_name.csv' DELIMITER ',' CSV HEADER;
