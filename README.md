@@ -7,7 +7,10 @@ The collection of small projects done when I am not playing video games <br>
    On **June 2019**, a smear campaign was launched to discredit Indonesian Health Minister effort to reduce the `smoking habit` among Indonesian. While **July 2019**, a local government in my hometown gave a `greenlight` for electric vehicles to operate and its potential to boost local economy. A much needed opportunity to reduce the number of unemployments, but also raise a concern possessed by the `noiseless machine` of electric vehicles. Some people is worried about its potential to raise the number of traffic accident. <br>
 
 (2). **2020** <br>
-   This folder hold the most recently ressurected project of mine, with the aim to build a data visualization of **Nobel Prize Winners**. This visualization will be build using `Python graphing libraries` such as **Plotly**. It may also extend to developed a dashboard version of it using another graphing libraries such as **Dash**. <br>
+   **Update**: The personal project(s) worked in 2020 is currently postponed. <br>
+               My father recently had a heart surgery to mend the his abnormal heart. <br>
+               He recovered well and currently undergoing a rehabilitation. <br>
+               I am dedicating my time now for the remainder of this year (2020) to support him during this rehabilitation. <br>
    
 (3). **Histories** <br>
      This folder contains the record of my attempt to further my educations and professional careers. It recorded the events of the journey from 2016 till present (i.e. `2020`) in ascending order. The update frequency of the list is plan to be at least every month; should updates exist. <br>
@@ -17,4 +20,4 @@ The collection of small projects done when I am not playing video games <br>
       - Plotly outputs (in `HTMLs` and `PNGs`) of Oxford University COVID-19 Government Response Tracker and <br>
       - Plotly scripts to build those outputs (`HTMLs` and `PNGs`).
      
-###### Note: The information above is accurate as of 8<sup>th</sup> August 2020 #######
+###### Update(s): The information above is accurate as of 18<sup>th</sup> October 2020 #######
