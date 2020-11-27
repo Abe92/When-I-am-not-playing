@@ -8,7 +8,7 @@ List of the academic paths pursued from 2016 until present
      -Project	       : Various
      -Project type     : Attached Project {i.e. GIMAC - Global Information Management and Analysis Cell on COVID-19}
      -Status           : ACCEPTED
-     -Comment          : N/A
+     -Rejection Comment: N/A
 
 (2). -Type	       : Doctoral Studentship
      -Destination      : University College London
